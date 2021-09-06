@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801026002411",
+    "project_id": "sharity-app-57485",
+    "storage_bucket": "sharity-app-57485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801026002411:android:72bd28b23eca8c886b5dae",
+        "android_client_info": {
+          "package_name": "com.example.sharity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801026002411-4tctsqvpde79ln7h9mnh60c0t5m1d782.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharity_app",
+            "certificate_hash": "6b0c512f67445c7c5439345ab922b3ab6d8cd4cf"
+          }
+        },
+        {
+          "client_id": "801026002411-io7fnpdd448t382jstmjh50mketuui4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9aUMrRGCFQHy8qhCihMnmyhGRmC-wuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801026002411-io7fnpdd448t382jstmjh50mketuui4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
